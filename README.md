@@ -1,12 +1,27 @@
-# Hey there 👋 I'm Aditya
+## Hey there 👋 I'm Aditya
 
-🎓 BTech IT Student | Aspiring Software Developer  
-💻 Currently learning Web Development (HTML, CSS, JS)  
-📈 CGPA: 8.95 | Based in Mumbai, India  
-🎯 Goal: To become a strong developer and engineer who can solve real problems 
+🎓 **BTech IT Student** | 💻 **Aspiring Software Developer**  
+📍 Mumbai, India  
 
+---
 
-🔗 LinkedIn: [Connect with me](https://www.linkedin.com/in/adityayadav-dev/)
+### 👨‍💻 About Me
 
- 
-🧠 Learning every day, growing every week  
+I’m a curious developer who enjoys understanding how things work under the hood.  
+Right now, I’m building strong foundations in **computer science** while exploring
+how intelligent systems can solve real-world problems.
+
+- 🧠 Learning **Data Structures & Algorithms**
+- 🤖 Exploring **AI & Machine Learning** (diving into LLMs)
+- 🌱 Improving every day through consistent practice
+- 🎯 Goal: Become a strong engineer who can build reliable, impactful systems
+
+---
+
+### 🛠 Tech Stack (Growing)
+
+```txt
+Languages    : HTML, CSS, JavaScript
+Core CS      : Data Structures & Algorithms
+Tools        : Git, GitHub
+Currently Exploring : AI, ML, LLMs
